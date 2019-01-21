@@ -1,7 +1,9 @@
 def setUpTox(comp, dir1, dir2=None):
 	comp.par.clone.expr = "op({!r}) or ''".format(comp.path)
 	toxname = comp.name + '.tox'
-	if not dir1.endswith('/'):
+	if not dir1:
+		dir1 = ''
+	elif not dir1.endswith('/'):
 		dir1 += '/'
 	pathexpr = "'{1}{0}' if mod.os.path.exists('{1}{0}') else ".format(toxname, dir1)
 	if dir2:
