@@ -1,3 +1,4 @@
 *.dmp
 CrashAutoSave*.toe
 Thumbs\.db
+TDImportCache/
