@@ -1,0 +1,119 @@
+{
+   rate = 24
+   start = 0
+   tracklength = 2
+   tracks = 28
+   {
+      name = machine_column_1:tx
+      data = 0 0 
+   }
+   {
+      name = machine_column_1:ty
+      data = -2.1500000953674316 2.1500000953674316 
+   }
+   {
+      name = machine_column_1:tz
+      data = 0 0 
+   }
+   {
+      name = machine_column_1:orientx
+      data = 0 0 
+   }
+   {
+      name = machine_column_1:orienty
+      data = 0 0 
+   }
+   {
+      name = machine_column_1:orientz
+      data = 1 0 
+   }
+   {
+      name = machine_column_1:orientw
+      data = -4.3711388286737929e-08 0 
+   }
+   {
+      name = machine_column_2:tx
+      data = 0 0 
+   }
+   {
+      name = machine_column_2:ty
+      data = -1.6000000238418579 1.6000000238418579 
+   }
+   {
+      name = machine_column_2:tz
+      data = 0 0 
+   }
+   {
+      name = machine_column_2:orientx
+      data = 0 0 
+   }
+   {
+      name = machine_column_2:orienty
+      data = 0 0 
+   }
+   {
+      name = machine_column_2:orientz
+      data = 1 0 
+   }
+   {
+      name = machine_column_2:orientw
+      data = -4.3711388286737929e-08 0 
+   }
+   {
+      name = machine_column_3:tx
+      data = 0 0 
+   }
+   {
+      name = machine_column_3:ty
+      data = -1.625 1.625 
+   }
+   {
+      name = machine_column_3:tz
+      data = 0 0 
+   }
+   {
+      name = machine_column_3:orientx
+      data = 0 0 
+   }
+   {
+      name = machine_column_3:orienty
+      data = 0 0 
+   }
+   {
+      name = machine_column_3:orientz
+      data = 1 0 
+   }
+   {
+      name = machine_column_3:orientw
+      data = -4.3711388286737929e-08 0 
+   }
+   {
+      name = machine_head:tx
+      data = 0 0 
+   }
+   {
+      name = machine_head:ty
+      data = -1 1 
+   }
+   {
+      name = machine_head:tz
+      data = 0 0 
+   }
+   {
+      name = machine_head:orientx
+      data = 0 0 
+   }
+   {
+      name = machine_head:orienty
+      data = 0 0 
+   }
+   {
+      name = machine_head:orientz
+      data = 1 0 
+   }
+   {
+      name = machine_head:orientw
+      data = -4.3711388286737929e-08 0 
+   }
+
+}
