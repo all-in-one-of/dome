@@ -2,7 +2,7 @@
    rate = 24
    start = 0
    tracklength = 2
-   tracks = 28
+   tracks = 35
    {
       name = machine_column_1:tx
       data = 0 0 
@@ -113,6 +113,34 @@
    }
    {
       name = machine_head:orientw
+      data = -4.3711388286737929e-08 0 
+   }
+   {
+      name = arm:tx
+      data = 0 0 
+   }
+   {
+      name = arm:ty
+      data = -3.0899999141693115 3.0899999141693115 
+   }
+   {
+      name = arm:tz
+      data = 0 0 
+   }
+   {
+      name = arm:orientx
+      data = 0 0 
+   }
+   {
+      name = arm:orienty
+      data = 0 0 
+   }
+   {
+      name = arm:orientz
+      data = 1 0 
+   }
+   {
+      name = arm:orientw
       data = -4.3711388286737929e-08 0 
    }
 
